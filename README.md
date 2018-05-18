@@ -1,2 +1,3 @@
 # Simple VanillaJS Todo App
-Coded by Damir 
+
+[Live Preview](http://damirp.com/todo-app)
